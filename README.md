@@ -5,10 +5,10 @@
 </blockquote>
 <hr /
 
-## FEATURES
+## UNDETECTED STATUS
 
 ```sh-session
- UNDETECTED STATUS
+ STATUS LIST
  ------
 𝐒𝐩𝐨𝐨𝐟𝐞𝐫 (𝐔𝐧𝐝𝐞𝐭𝐞𝐜𝐭𝐞𝐝)
 𝐀𝐢𝐦𝐛𝐨𝐭 (𝐔𝐧𝐝𝐞𝐭𝐞𝐜𝐭𝐞𝐝)
